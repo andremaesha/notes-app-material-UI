@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "ayu",
+      "details": "lorem",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "pay that's bill",
+      "details": "hahahahahaha",
+      "category": "money",
+      "id": 6
+    },
+    {
+      "title": "Make a web design to create Single page application",
+      "details": "hello, im a front-end-web-developer and i gonna show you, my new skills ",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "mm",
+      "details": "mmm",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "nn",
+      "details": "n",
+      "category": "money",
+      "id": 9
+    }
+  ]
+}
